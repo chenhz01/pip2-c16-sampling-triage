@@ -1,0 +1,30 @@
+[
+  {
+    "id": "L60",
+    "cluster": "c16 采样与分诊",
+    "name": "每步档位策略",
+    "dir": "L60-step-gear-policy",
+    "loc": 42
+  },
+  {
+    "id": "L61",
+    "cluster": "c16 采样与分诊",
+    "name": "廉价预筛",
+    "dir": "L61-cheap-prefilter",
+    "loc": 46
+  },
+  {
+    "id": "L62",
+    "cluster": "c16 采样与分诊",
+    "name": "深挖配额",
+    "dir": "L62-dig-quota",
+    "loc": 37
+  },
+  {
+    "id": "L63",
+    "cluster": "c16 采样与分诊",
+    "name": "评测成本比",
+    "dir": "L63-eval-cost-ratio",
+    "loc": 43
+  }
+]
